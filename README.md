@@ -9,3 +9,4 @@ The processed datasets of immunopeptidome is available at https://zenodo.org/rec
 
 The processed datasets of scRNAseq is available at https://figshare.com/articles/dataset/Multicellular_ecotypes_shape_progression_of_lung_adenocarcinoma_from_ground-glass_opacity_towards_advanced_stages/25287325
 and https://figshare.com/articles/dataset/_b_Multicellular_ecotypes_shape_progression_of_lung_adenocarcinoma_from_ground-glass_opacity_towards_advanced_stages_Ecotyper_results_b_/25907560.
+The quantification of  transposable element (TEs) expression from single-cell sequencing data is available at https://figshare.com/articles/dataset/Multicellular_ecotypes_shape_progression_of_lung_adenocarcinoma_from_ground-glass_opacity_toward_advanced_stages_scTE_/26955628
