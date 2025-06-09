@@ -1,0 +1,10 @@
+chr - B.cells B.cells 0 300 set1-9-qual-1
+chr - CD4.T.cells CD4.T.cells 0 500 set1-9-qual-1
+chr - CD8.T.cells CD8.T.cells 0 400 set1-9-qual-1
+chr - Dendritic.cells Dendritic.cells 0 200 set1-9-qual-1
+chr - Endothelial.cells Endothelial.cells 0 500 set1-9-qual-1
+chr - Fibroblasts Fibroblasts 0 400 set1-9-qual-1
+chr - Mast.cells Mast.cells 0 400 set1-9-qual-1
+chr - Monocytes.and.Macrophages Monocytes.and.Macrophages 0 500 set1-9-qual-1
+chr - NK.cells NK.cells 0 400 set1-9-qual-1
+chr - PMNs PMNs 0 300 set1-9-qual-1
